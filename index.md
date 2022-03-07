@@ -1,5 +1,3 @@
-# User Guide
-
 ## Overview
 ![Overview](./assets/overview.gif)
 
