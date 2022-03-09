@@ -16,7 +16,7 @@ should be determined among all stakeholders before working on the desing doc.
 This section describes how to install/use Proko Doc Reviewer.
 
 ### 1. Install add-on
-1. Click [Link]().
+1. Click [Link](https://workspace.google.com/marketplace/app/proko_doc_reviewer/1029864673452).
 2. Click install.
 3. When asked to allow permission to your doc and drive, click *Allow*.
 
